@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
    <Navbar/>
-   <h2>Hello</h2>
+   <h2>Wellcome to netlify</h2>
     </div>
   );
 }
